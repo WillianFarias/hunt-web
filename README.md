@@ -18,5 +18,5 @@ Executar
 ```bash
 $ npm start
 ```
-Resultado do Google Lighthouse
+Resultado do Google Lighthouse (localhost_2020-11-14_15-19-53.report.html)
 ![Lighthouse](https://user-images.githubusercontent.com/13625877/99154558-8ea09700-268f-11eb-8ade-132081875f62.png)
