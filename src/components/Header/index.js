@@ -5,7 +5,7 @@ import "./styles.css";
 //Constante que possui uma funcao com retorno
 //states component
 const Header = () => (
-  <header id="main-header">JSHunt</header>
+  <header id="main-header">Buscador JS</header>
 );
 
 export default Header;
